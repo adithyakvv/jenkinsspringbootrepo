@@ -22,7 +22,7 @@ public class ClientController {
 	@GetMapping("/test")
 	public String test()
 	{
-		return "Jenkins Demo";
+		return "changed name in final tag";
 	}
 	
 }
